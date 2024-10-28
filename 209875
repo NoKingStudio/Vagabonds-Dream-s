@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Vagabonds Dream's</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Vagabonds Dream's</a></h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="productions.html">Productions</a></li>
+                <li><a href="events.html">Événements</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Contactez-nous</h2>
+        <p>Pour toute question, contactez-nous à l’adresse suivante : contact@vagabondsdreams.com</p>
+    </main>
+</body>
+</html>
